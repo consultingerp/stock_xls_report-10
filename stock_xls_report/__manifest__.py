@@ -4,7 +4,7 @@
     'category': 'Warehouse',
     'license': "AGPL-3",
     'summary': "Current Stock Report for all Products in each Warehouse",
-    'author': 'ItechResources',
+    'author': 'Itech Resources',
     'company': 'ItechResources',
     
     'depends': [
