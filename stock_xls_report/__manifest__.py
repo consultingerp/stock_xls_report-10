@@ -1,5 +1,5 @@
 {
-    'name': 'Export Stock Excel Report',
+    'name': 'Inventory & Movement Report in Excel',
     'version': '0.2',
     'category': 'Warehouse',
     'license': "AGPL-3",
